@@ -28,7 +28,7 @@ This Cyclistic bikeshare data was provided by the Cyclistic bikeshare company th
 
 ### Data Cleaning
 
-Before diving into analyzing the data, the most important step is cleaning the data. i did this by;
+Before diving into analyzing the data, the most important step is cleaning the data. I did this by;
 - Filtering the data to remove blanks.
 - Changed the data types.
 - Removed columns that wont be useful to my analysis.
