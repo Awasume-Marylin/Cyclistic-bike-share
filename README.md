@@ -1,7 +1,14 @@
 # Cyclistic-bike-share analysis
 
 ### Table of Contents
-- [Project overview](projectoverview)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
  
 ### Project overview
@@ -19,7 +26,7 @@ This Cyclistic bikeshare data was provided by the Cyclistic bikeshare company th
 - Microsoft Excel - Data cleaning, Analysis, visualization.
 - Microsoft Word - Task deliverabel report.
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 Before diving into analyzing the data, the most important step is cleaning the data. i did this by;
 - Filtering the data to remove blanks.
